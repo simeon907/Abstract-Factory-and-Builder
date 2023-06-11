@@ -1,0 +1,8 @@
+D:\patterns\hw1.1\hw1.1\bin\Debug\hw1.1.exe.config
+D:\patterns\hw1.1\hw1.1\bin\Debug\hw1.1.exe
+D:\patterns\hw1.1\hw1.1\bin\Debug\hw1.1.pdb
+D:\patterns\hw1.1\hw1.1\obj\Debug\hw1.1.csproj.AssemblyReference.cache
+D:\patterns\hw1.1\hw1.1\obj\Debug\hw1.1.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw1.1\hw1.1\obj\Debug\hw1.1.csproj.CoreCompileInputs.cache
+D:\patterns\hw1.1\hw1.1\obj\Debug\hw1.1.exe
+D:\patterns\hw1.1\hw1.1\obj\Debug\hw1.1.pdb
