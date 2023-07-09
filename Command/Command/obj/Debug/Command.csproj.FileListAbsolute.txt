@@ -1,0 +1,8 @@
+D:\patterns\hw4\Command\Command\bin\Debug\Command.exe.config
+D:\patterns\hw4\Command\Command\bin\Debug\Command.exe
+D:\patterns\hw4\Command\Command\bin\Debug\Command.pdb
+D:\patterns\hw4\Command\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\patterns\hw4\Command\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw4\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\patterns\hw4\Command\Command\obj\Debug\Command.exe
+D:\patterns\hw4\Command\Command\obj\Debug\Command.pdb
