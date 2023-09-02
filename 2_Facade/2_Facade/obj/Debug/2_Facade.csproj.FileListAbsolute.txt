@@ -1,0 +1,8 @@
+D:\patterns\hw3\2_Facade\2_Facade\bin\Debug\2_Facade.exe.config
+D:\patterns\hw3\2_Facade\2_Facade\bin\Debug\2_Facade.exe
+D:\patterns\hw3\2_Facade\2_Facade\bin\Debug\2_Facade.pdb
+D:\patterns\hw3\2_Facade\2_Facade\obj\Debug\2_Facade.csproj.AssemblyReference.cache
+D:\patterns\hw3\2_Facade\2_Facade\obj\Debug\2_Facade.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw3\2_Facade\2_Facade\obj\Debug\2_Facade.csproj.CoreCompileInputs.cache
+D:\patterns\hw3\2_Facade\2_Facade\obj\Debug\2_Facade.exe
+D:\patterns\hw3\2_Facade\2_Facade\obj\Debug\2_Facade.pdb

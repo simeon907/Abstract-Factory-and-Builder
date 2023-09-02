@@ -1,0 +1,8 @@
+D:\patterns\hw3\1_Decorator\1_Decorator\bin\Debug\1_Decorator.exe.config
+D:\patterns\hw3\1_Decorator\1_Decorator\bin\Debug\1_Decorator.exe
+D:\patterns\hw3\1_Decorator\1_Decorator\bin\Debug\1_Decorator.pdb
+D:\patterns\hw3\1_Decorator\1_Decorator\obj\Debug\1_Decorator.csproj.AssemblyReference.cache
+D:\patterns\hw3\1_Decorator\1_Decorator\obj\Debug\1_Decorator.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw3\1_Decorator\1_Decorator\obj\Debug\1_Decorator.csproj.CoreCompileInputs.cache
+D:\patterns\hw3\1_Decorator\1_Decorator\obj\Debug\1_Decorator.exe
+D:\patterns\hw3\1_Decorator\1_Decorator\obj\Debug\1_Decorator.pdb

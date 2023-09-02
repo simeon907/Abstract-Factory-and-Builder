@@ -1,0 +1,8 @@
+D:\patterns\hw3\3_Flyweight\3_Flyweight\obj\Debug\3_Flyweight.csproj.AssemblyReference.cache
+D:\patterns\hw3\3_Flyweight\3_Flyweight\obj\Debug\3_Flyweight.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw3\3_Flyweight\3_Flyweight\obj\Debug\3_Flyweight.csproj.CoreCompileInputs.cache
+D:\patterns\hw3\3_Flyweight\3_Flyweight\bin\Debug\3_Flyweight.exe.config
+D:\patterns\hw3\3_Flyweight\3_Flyweight\bin\Debug\3_Flyweight.exe
+D:\patterns\hw3\3_Flyweight\3_Flyweight\bin\Debug\3_Flyweight.pdb
+D:\patterns\hw3\3_Flyweight\3_Flyweight\obj\Debug\3_Flyweight.exe
+D:\patterns\hw3\3_Flyweight\3_Flyweight\obj\Debug\3_Flyweight.pdb
