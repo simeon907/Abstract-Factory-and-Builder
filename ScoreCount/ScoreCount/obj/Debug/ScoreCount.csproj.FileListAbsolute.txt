@@ -1,0 +1,8 @@
+D:\patterns\hw5\ScoreCount\ScoreCount\bin\Debug\ScoreCount.exe.config
+D:\patterns\hw5\ScoreCount\ScoreCount\bin\Debug\ScoreCount.exe
+D:\patterns\hw5\ScoreCount\ScoreCount\bin\Debug\ScoreCount.pdb
+D:\patterns\hw5\ScoreCount\ScoreCount\obj\Debug\ScoreCount.csproj.AssemblyReference.cache
+D:\patterns\hw5\ScoreCount\ScoreCount\obj\Debug\ScoreCount.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw5\ScoreCount\ScoreCount\obj\Debug\ScoreCount.csproj.CoreCompileInputs.cache
+D:\patterns\hw5\ScoreCount\ScoreCount\obj\Debug\ScoreCount.exe
+D:\patterns\hw5\ScoreCount\ScoreCount\obj\Debug\ScoreCount.pdb

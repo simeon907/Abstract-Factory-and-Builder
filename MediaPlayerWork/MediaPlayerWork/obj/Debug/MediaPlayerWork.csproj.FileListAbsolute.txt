@@ -1,0 +1,8 @@
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\bin\Debug\MediaPlayerWork.exe.config
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\bin\Debug\MediaPlayerWork.exe
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\bin\Debug\MediaPlayerWork.pdb
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\obj\Debug\MediaPlayerWork.csproj.AssemblyReference.cache
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\obj\Debug\MediaPlayerWork.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\obj\Debug\MediaPlayerWork.csproj.CoreCompileInputs.cache
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\obj\Debug\MediaPlayerWork.exe
+D:\patterns\hw5\MediaPlayerWork\MediaPlayerWork\obj\Debug\MediaPlayerWork.pdb
