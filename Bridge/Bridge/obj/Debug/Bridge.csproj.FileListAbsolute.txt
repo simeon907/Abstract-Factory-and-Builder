@@ -1,0 +1,8 @@
+D:\patterns\hw2\Bridge\Bridge\bin\Debug\Bridge.exe.config
+D:\patterns\hw2\Bridge\Bridge\bin\Debug\Bridge.exe
+D:\patterns\hw2\Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\patterns\hw2\Bridge\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+D:\patterns\hw2\Bridge\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+D:\patterns\hw2\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\patterns\hw2\Bridge\Bridge\obj\Debug\Bridge.exe
+D:\patterns\hw2\Bridge\Bridge\obj\Debug\Bridge.pdb
